@@ -8,14 +8,14 @@
   </div>
   <!-- Content container -->
   <div class="mx-auto max-w-7xl px-6 lg:px-8">
-    <div class="flex flex-col lg:flex-row">
+    <div class="grid lg:grid-cols-2 gap-12">
       <!-- Main content -->
       <div class="lg:w-1/2">
         <h1 class="text-4xl text-white mb-4">One Album</h1>
         <p class="text-white">Visualizing Beauty, One Frame at a Time, Eternal Memories Created.</p>
       </div>
       <!-- Links -->
-      <div class="flex flex-col lg:w-1/2 lg:flex-row lg:justify-end lg:gap-x-12 mt-8 lg:mt-0 md:flex-row md:gap-x-12">
+      <div class="flex grid sm:grid-cols-3 gap-12 lg:justify-end lg:gap-x-12 mt-8 lg:mt-0 md:flex-row md:gap-x-12">
         <!-- Resources -->
         <div class="text-white">
           <p class="mb-2 font-semibold">Resources</p>
